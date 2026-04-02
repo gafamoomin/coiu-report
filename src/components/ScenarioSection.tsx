@@ -80,7 +80,7 @@ export default function ScenarioSection() {
         <div className={styles.sectionTag}>シナリオ別予測</div>
         <h2 className={styles.sectionTitle}>3つのシナリオによる入学者数予測</h2>
         <p className={styles.sectionDesc}>
-          5つの分析アプローチを統合し、強気・標準・弱気の3シナリオを設定。最も蓋然性が高い予測値は<strong>45〜55名（充足率32〜39%）</strong>です。
+          5つの分析アプローチを統合し、強気・標準・弱気の3シナリオを設定。最も蓋然性が高い予測値は<strong>65～75名（充足率54〜63%）</strong>です。
         </p>
 
         <div className={styles.scenarioGrid}>
@@ -132,7 +132,7 @@ export default function ScenarioSection() {
           <div className={styles.summaryLabel}>最終予測値（最有力）</div>
           <div className={styles.summaryMain}>約65〜75名 <span className={styles.summaryPct}>充足率 54〜63%</span></div>
           <div className={styles.summaryNote}>
-            定員140名に対し、半数以下の充足率となる見込み。申請書類が示す169名の入学意向とは大きく乖離します。
+            定員120名に対し、半数以下の充足率となる見込み。申請書類が示す159名の入学意向とは大きく乖離します。
           </div>
         </div>
       </div>
