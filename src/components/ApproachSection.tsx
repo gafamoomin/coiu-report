@@ -48,7 +48,7 @@ export default function ApproachSection() {
 
         <div className={styles.avgBox}>
           <div className={styles.avgLabel}>5アプローチの総合推定レンジ</div>
-          <div className={styles.avgValue}>約30〜58名</div>
+          <div className={styles.avgValue}>約40〜75名</div>
         </div>
       </div>
     </section>
