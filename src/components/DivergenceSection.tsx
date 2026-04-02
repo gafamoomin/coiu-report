@@ -8,7 +8,7 @@ export default function DivergenceSection() {
         <div className={styles.sectionTag}>乖離の理由</div>
         <h2 className={styles.sectionTitle}>申請書類との乖離：5つの根拠</h2>
         <p className={styles.sectionDesc}>
-          申請書類は「169名の入学意向 → 定員140名充足可能」と主張しますが、本予測が大きく異なる見解を示す理由を整理します。
+          申請書類は「159名の入学意向 → 定員120名充足可能」と主張しますが、本予測が大きく異なる見解を示す理由を整理します。
         </p>
 
         <div className={styles.list}>

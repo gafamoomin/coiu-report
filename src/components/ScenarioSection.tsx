@@ -132,7 +132,7 @@ export default function ScenarioSection() {
           <div className={styles.summaryLabel}>最終予測値（最有力）</div>
           <div className={styles.summaryMain}>約60〜80名 <span className={styles.summaryPct}>充足率 50〜67%</span></div>
           <div className={styles.summaryNote}>
-            定員120名に対し、半数以下の充足率となる見込み。申請書類が示す159名の入学意向とは大きく乖離します。
+            定員120名に対し、5～7割程度の充足率となる見込み。申請書類が示す159名の入学意向とは大きく乖離します。
           </div>
         </div>
       </div>
