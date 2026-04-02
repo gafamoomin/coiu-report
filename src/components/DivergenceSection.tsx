@@ -27,10 +27,8 @@ export default function DivergenceSection() {
           <div className={styles.sourcesLabel}>主な参照データソース</div>
           <ul className={styles.sourcesList}>
             <li>学生確保の見通し等を記載した書類（申請書類）</li>
-            <li>佐賀県「高等学校卒業者の進路状況」</li>
             <li>リクルート進学総研「私立大学等における新増設・改組の現状まとめ」</li>
             <li>私学事業団「入学志願動向」</li>
-            <li>佐賀女子短期大学 情報公開資料（令和6年10月公表）</li>
             <li>東洋経済・NetIB-News等の報道（2025年8月29日以前）</li>
           </ul>
         </div>
