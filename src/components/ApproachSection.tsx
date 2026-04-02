@@ -39,7 +39,7 @@ export default function ApproachSection() {
                 </div>
                 <div className={styles.barLabels}>
                   <span className={styles.barRange}>{a.min}〜{a.max}名</span>
-                  <span className={styles.barMid}>中央値 {a.mid}名</span>
+                  <span className={styles.barMid}>推定値 {a.mid}名</span>
                 </div>
               </div>
             </div>
@@ -47,7 +47,7 @@ export default function ApproachSection() {
         </div>
 
         <div className={styles.avgBox}>
-          <div className={styles.avgLabel}>5アプローチの平均レンジ</div>
+          <div className={styles.avgLabel}>5アプローチの総合推定レンジ</div>
           <div className={styles.avgValue}>約30〜58名</div>
         </div>
       </div>
