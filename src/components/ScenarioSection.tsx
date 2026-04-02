@@ -21,7 +21,7 @@ export default function ScenarioSection() {
     datasets: [
       {
         label: '予測入学者数（名）',
-        data: [25, 40, 45, 60, 70, 85],
+        data: [35, 55, 60, 80, 85, 105],
         backgroundColor: [
           'rgba(255,107,107,0.5)',
           'rgba(255,107,107,0.7)',
